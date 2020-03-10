@@ -7,7 +7,8 @@ public class Gambler {
     public static void main(String[] args) {
     	Scanner sc=new Scanner(System.in);
     	System.out.println("stack is");
-    	
+//ybgbgbgynun
+//jujujuj    	
         int stake  = sc.nextInt() ; 
         System.out.println("goal is");// gambler's stating bankroll
         int goal   = sc.nextInt() ;
